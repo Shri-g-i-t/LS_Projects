@@ -1,0 +1,20 @@
+1.Which company laptop is this
+	a)Hp
+	b)Mi
+	c)Lenovo
+	d)LG
+2.Does it has Numpad?
+	a)Yes
+	b)No
+	c)None of the above
+	d)All
+3.Which OS?
+	a)Windows
+	b)Lenovo
+	c)Fedoraa
+	d)Ubuntu
+4.Option b is correct
+	a)a
+	b)b
+	c)c
+	d)d
